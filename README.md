@@ -1,6 +1,8 @@
 ### Hi there 👋 I'am Itzhak
 
-🇮🇱 I live in Jerusalem, Israel
+🇮🇱  I live in Jerusalem, Israel
+📲 I'm currently working for Lightricks LTD
+
 
 <!--
 **Itzhak-Altman/Itzhak-Altman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
